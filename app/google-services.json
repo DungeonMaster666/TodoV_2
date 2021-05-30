@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "144652702816",
+    "project_id": "todov2grisajevs",
+    "storage_bucket": "todov2grisajevs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144652702816:android:3e3a6047c5d1c15f331f05",
+        "android_client_info": {
+          "package_name": "com.example.todov_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144652702816-ncs25r5lffh5qnhs3qut8tm9unh78vot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqMb34aa_VBbpdhFtpkWlyCtl1gQF-oAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144652702816-ncs25r5lffh5qnhs3qut8tm9unh78vot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
